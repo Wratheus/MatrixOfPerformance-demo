@@ -9,7 +9,7 @@
 <h2>Simple installation</h2>
 <p>
 1. Go to GitHub [Releases]
-2. Download latest Anrodid/Windows release <br>
+2. Download latest Anrodid/PC release <br>
 3. Run <b>.apk .exe</b> file <br>
 </p>
 <h2>Set up project for development </h2>
@@ -49,30 +49,18 @@
 
 <h2>Project examples</h2>
 
-<h3>Windows charts panel look</h3>
+<h3>PC charts panel look</h3>
 <p align="center">
   <img src="https://i.imgur.com/0lxWcUQ.png" alt="application" width="800" />
 </p>
 
 
-<h3>Windows tables panel look</h3>
+<h3>PC tables panel look</h3>
 <p align="center">
   <img src="https://i.imgur.com/McwlVSI.png" alt="application" width="800" />
 </p>
 
-<h3>Windows login</h3>
+<h3>PC login</h3>
 <p align="center">
   <img src="https://i.imgur.com/FnZHHOP.png" alt="application" width="800" />
-</p>
-
-<h3>Mobile tables panel look</h3>
-
-<p align="center">
-  <img src="https://i.imgur.com/js5Dqf3.jpg" alt="application" width="400" />
-</p>
-
-<h3>Mobile charts panel look</h3>
-
-<p align="center">
-  <img src="https://i.imgur.com/qg2lSJq.jpg" alt="application" width="400" />
 </p>
